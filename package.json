@@ -22,7 +22,6 @@
   "_resolved": "https://registry.npmjs.org/passport-oauth2/-/passport-oauth2-1.4.0.tgz",
   "_shasum": "f62f81583cbe12609be7ce6f160b9395a27b86ad",
   "_spec": "passport-oauth2",
-  "_where": "/Users/ts-harshil.patel/dev/ramp-api-management-portal",
   "author": {
     "name": "Jared Hanson",
     "email": "jaredhanson@gmail.com",
